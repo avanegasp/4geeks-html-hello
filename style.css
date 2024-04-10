@@ -76,11 +76,12 @@ body{
 
 .post-comments p {
     padding: 25px 0px 0px 15px;
-    /* margin: 0; */
 }
 
 .post-comments p {
-    font-family: "Finger Paint", sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
 }
 
 .post-comments .post-lorem{
